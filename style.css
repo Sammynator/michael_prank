@@ -1,0 +1,41 @@
+
+* {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+body{
+    background-color: rgb(36, 35, 35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
+p{
+    
+    color: white;
+}
+
+button {
+    margin-top: 5px;
+}
+
+#output{
+    margin-top: 20px;
+    word-break: break-all;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
+
+@media (max-width:1100px){
+    
+    body{
+        margin-top: 50%;
+    }: 
+}
+
+
+
