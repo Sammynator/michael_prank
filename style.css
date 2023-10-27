@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(36, 35, 35);
+    background-color: rgb(35, 35, 35);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,7 +33,7 @@ button {
 @media (max-width:1100px){
     
     body{
-        margin-top: 50%;
+        margin-top: 50 %;
     }: 
 }
 
